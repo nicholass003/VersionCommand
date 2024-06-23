@@ -6,4 +6,6 @@ projects:
   VersionCommand:
     path: ""
     icon: "assets/icon.png"
+    lint:
+      phpstan: false
 ...
