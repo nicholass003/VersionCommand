@@ -1,0 +1,5 @@
+name: VersionCommand
+api: 5.0.0
+version: 0.1.0
+main: nicholass003\versioncommand\Main
+author: nicholass003
