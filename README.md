@@ -1,18 +1,18 @@
-## VersionCommand
+## 🖥️ VersionCommand
 
 A PocketMine-MP plugin that fixes https://github.com/pmmp/PocketMine-MP/issues/6322
 
-## Description
+## 📜 Description
 
 This plugin addresses and fixes issues related to the command system in PocketMine-MP, as described in [issue #6322](https://github.com/pmmp/PocketMine-MP/issues/6322). With this plugin, you can ensure that the command system works properly without encountering the reported problems.
 
-## Features
+## 🌟 Features
 
 - Handles command arguments more accurately.
 - Optimizes command processing to improve server performance.
 - Adds permission `pocketmine.command.version.detail` to handle detailed version commands.
 
-## Installation
+## 🛠️ Installation
 
 1. Download the plugin from the [poggit](https://poggit.pmmp.io/ci/nicholass003/VersionCommand).
 2. Extract the downloaded file into the `plugins` folder in your PocketMine-MP directory.
@@ -22,7 +22,7 @@ This plugin addresses and fixes issues related to the command system in PocketMi
 
 Feel free to creating an issues for bug reports and feature requests!
 
-## 🌟 Support Development
+## 💖 Support Development
 
 If you find my PocketMine-MP plugins useful and wish to support their ongoing development and maintenance, your contributions are greatly appreciated. Your generosity enables me to dedicate more time and resources to improving and expanding the functionality of these plugins for the benefit of the community.
 
@@ -42,5 +42,5 @@ I would like to express my heartfelt gratitude to all the individuals and organi
 
 Thank you for your continued support and encouragement!
 
-## Credits
+## 🎖️ Credits
 <a target="_blank" href="https://icons8.com/icon/r6DAq6h38k2V/command">Command</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
