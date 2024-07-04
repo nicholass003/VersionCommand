@@ -30,6 +30,8 @@ use pocketmine\permission\PermissionManager;
 
 class Permissions{
 
+	private function __construct(){}
+
 	public static function registerPermissions() : void{
 		$operatorRoot = PermissionManager::getInstance()->getPermission(DefaultPermissions::ROOT_OPERATOR);
 		DefaultPermissions::registerPermission(new Permission(PermissionNames::COMMAND_VERSION_DETAIL, PermissionDescriptions::POCKETMINE_PERMISSION_COMMAND_VERSION_DETAIL), [$operatorRoot]);
